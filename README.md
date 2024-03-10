@@ -1,6 +1,4 @@
 # Moving_Object_Detection
-
-Description:
 This Python script utilizes the OpenCV library to perform basic motion detection through webcam input. The application captures consecutive frames, converts them to grayscale, and applies Gaussian blur for noise reduction. It then calculates the absolute difference between consecutive frames, creating a thresholded image to identify moving objects. Detected objects are outlined with rectangles, and a text notification is displayed. The script is equipped with a graphical user interface for real-time monitoring.
 
 Directions:
